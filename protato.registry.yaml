@@ -1,0 +1,7 @@
+ignores:
+  - '**/BUILD'
+  - '**/BUILD.bazel'
+  - '**/*.bak'
+committer:
+  name: Rahul Agarwal
+  email: rahulagarwal0605@gmail.com
